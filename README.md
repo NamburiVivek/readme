@@ -62,48 +62,6 @@ Beyond engineering, I engage deeply with community-driven programs — from rura
 
 ---
 
-## Pinned Projects
-
-<div align="center">
-
-[![Ofoods26-Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=NamburiVivek&repo=Ofoods26-Ecommerce&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=38bdf8&icon_color=0ea5e9&text_color=94a3b8)](https://github.com/NamburiVivek/Ofoods26-Ecommerce)
-[![Stock-Market-Trading-web-Application](https://github-readme-stats.vercel.app/api/pin/?username=HackstreetBoyzz&repo=Stock-Market-Trading-web-Application&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=38bdf8&icon_color=0ea5e9&text_color=94a3b8)](https://github.com/HackstreetBoyzz/Stock-Market-Trading-web-Application)
-
-[![Personal-Finance-Tracker](https://github-readme-stats.vercel.app/api/pin/?username=NamburiVivek&repo=Personal-Finance-Tracker&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=38bdf8&icon_color=0ea5e9&text_color=94a3b8)](https://github.com/NamburiVivek/Personal-Finance-Tracker)
-[![Airline-Reservation-System](https://github-readme-stats.vercel.app/api/pin/?username=NamburiVivek&repo=Airline-Reservation-System&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=38bdf8&icon_color=0ea5e9&text_color=94a3b8)](https://github.com/NamburiVivek/Airline-Reservation-System)
-
-[![Myexpos](https://github-readme-stats.vercel.app/api/pin/?username=NamburiVivek&repo=Myexpos&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=38bdf8&icon_color=0ea5e9&text_color=94a3b8)](https://github.com/NamburiVivek/Myexpos)
-[![Autonomus-Robot-Navigation-System](https://github-readme-stats.vercel.app/api/pin/?username=HackstreetBoyzz&repo=Autonomus-Robot-Navigation-System&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=38bdf8&icon_color=0ea5e9&text_color=94a3b8)](https://github.com/HackstreetBoyzz/Autonomus-Robot-Navigation-System)
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=NamburiVivek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=38bdf8&icon_color=0ea5e9&text_color=F5F5F5&ring_color=1e40af" />
-
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamburiVivek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=38bdf8&text_color=F5F5F5&langs_count=6&exclude_repo=NamburiVivek" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=NamburiVivek&theme=tokyonight&hide_border=true&background=0D0D0D&ring=1e40af&fire=0ea5e9&currStreakLabel=38bdf8&sideLabels=F5F5F5&dates=888888&currStreakNum=38bdf8&sideNums=38bdf8" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-[![Vivek's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NamburiVivek&bg_color=0D0D0D&color=38bdf8&line=0ea5e9&point=FFFFFF&area=true&area_color=1e3a5f&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%20Last%2012%20Months)](https://github.com/NamburiVivek)
-
-</div>
 
 ---
 
